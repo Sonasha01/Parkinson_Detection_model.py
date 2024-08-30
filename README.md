@@ -1,0 +1,2 @@
+# Parkinson_Detection_model.py
+Parkinson_Detection_model
